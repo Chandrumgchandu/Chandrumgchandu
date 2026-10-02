@@ -51,6 +51,13 @@ Compact Spring Boot sample with Maven tests, Docker packaging, and GitHub Action
 
 Visible evidence: `.github/workflows/build.yml`, `app/store/Dockerfile`, Maven project files, and tests.
 
+## Deployed Private Project Demo
+
+### [Milk Ledger — Dairy Collection and Payments Platform](https://milk-ledger-pink.vercel.app)
+Private Flask/Supabase project with a public Vercel demo page. It demonstrates a Render backend, Vercel frontend, Supabase migrations, health checks, GitHub Actions backend CI, Docker build validation, WhatsApp webhook support, and an operations runbook.
+
+Use the demo link for review; source access can be granted separately when appropriate.
+
 ## Repository Triage
 
 | Category | Repositories |
