@@ -92,7 +92,7 @@ I like DevOps work that connects engineering discipline with business usefulness
 
 ## Manual GitHub UI Actions To Complete
 
-These actions are best done from GitHub's UI because they affect account presentation rather than repository code:
+These actions are best done from GitHub's UI because they affect account presentation rather than repository code. A detailed checklist is available in [PORTFOLIO_AUDIT.md](PORTFOLIO_AUDIT.md).
 
 1. Pin the 3-5 strongest repositories: `employee-portal`, `ebook-store`, `todo_app_jenkins`, `devops-lab`, and `Ecommerce-Platform`.
 2. Keep forks unpinned so they do not look like primary portfolio work.
@@ -103,5 +103,5 @@ These actions are best done from GitHub's UI because they affect account present
 ---
 
 <p align="center">
-<a href="https://github.com/Chandrumgchandu?tab=repositories">Explore all repositories</a> | <a href="https://milk-ledger-pink.vercel.app">View Milk Ledger Demo</a>
+<a href="https://github.com/Chandrumgchandu?tab=repositories">Explore all repositories</a> | <a href="https://milk-ledger-pink.vercel.app">View Milk Ledger Demo</a> | <a href="https://github.com/Chandrumgchandu/Chandrumgchandu/blob/main/PORTFOLIO_AUDIT.md">Portfolio Audit</a>
 </p>
