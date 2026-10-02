@@ -33,9 +33,9 @@ Spring Boot application with a Jenkins delivery pipeline covering compile, tests
 Evidence to review: `Jenkinsfile`, `Dockerfile`, `k8s/`, and `docs/runbook.md`.
 
 ### [E-Book Store — Full-Stack Application](https://github.com/Chandrumgchandu/ebook-store)
-Spring Boot backend, PostgreSQL persistence, and Vite frontend. The backend uses environment variables for database settings, and the architecture notes describe the application boundary and DevOps extension path.
+Spring Boot backend, PostgreSQL persistence, and Vite frontend. The backend uses environment variables for database settings, and the frontend API endpoint is configurable through environment variables.
 
-Evidence to review: `backend/`, `frontend/`, `architecture.md`, Maven/npm lock files, and environment-driven Spring configuration.
+Evidence to review: `backend/`, `frontend/`, `architecture.md`, `.env.example`, Maven/npm lock files, and environment-driven configuration.
 
 ### [Todo Application — Full-Stack DevOps Lab](https://github.com/Chandrumgchandu/todo_app_jenkins)
 Node.js/Express Todo API with PostgreSQL, JWT auth, Docker packaging, Docker Compose local stack, and runtime configuration through environment variables.
@@ -69,7 +69,11 @@ Use the demo link for resume review. Source access can be granted separately whe
 | Product/private demo | `milk-ledger` |
 | Supporting labs | `Devops-todo-app`, `Todo_app`, `myapps`, `End-to-end-CI-CD` |
 | Forks/reference only | `e-commerce-platform`, `my-java-devops-assignment` |
-| Empty or internal labs | `End-to-end-CI-CD-ansible`, `git-conflict-demo`, `ansible-production-lab`, `Devops-Pattern`, `End-to-end-CI-CD-gitops`, `terraform-production-lab` |
+| Placeholder or internal labs | `End-to-end-CI-CD-ansible`, `git-conflict-demo`, `ansible-production-lab`, `Devops-Pattern`, `End-to-end-CI-CD-gitops`, `terraform-production-lab` |
+
+## Cleanup Standard
+
+I keep portfolio repositories readable and honest: generated artifacts are removed when safe, placeholder repos are labelled clearly, secrets stay out of source control, and small experiments are not presented as production systems.
 
 ## Delivery Philosophy
 
